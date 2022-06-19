@@ -1,0 +1,48 @@
+.home-body{
+    background-image: url("../images/nutritionist1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.heading-div{
+    width: 500px;
+    height: 100px;
+}
+
+.heading{
+    font-family: "Montserrat-Black";
+    position: absolute;
+    /* right : 50px; */
+    left: 180px;
+    bottom:40px;
+    color: #Ff8203;
+    width: 500px;
+    height: 80px;
+    text-align: left;
+    
+}
+
+
+.image-fluid{
+    width: 60%;
+    height:700px;
+}
+
+.container-fluid{
+    background-color : white;
+}
+
+.container-fluid img{
+    width:100%;
+}
+
+.section{
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+
+
